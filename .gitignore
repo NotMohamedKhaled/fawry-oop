@@ -1,0 +1,5 @@
+# CLion & CMake
+cmake-build-*/
+.idea/
+*.exe
+*.log
